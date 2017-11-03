@@ -1,0 +1,6 @@
+/node_modules
+/public/dist/
+/Notes/
+/firebase/
+.env.test
+.env.development
